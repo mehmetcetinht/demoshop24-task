@@ -7,21 +7,21 @@
   </listeners>
 
   <test name="LoginTests" >
-    <parameter name="browser" value="firefox" />
+<!--    <parameter name="browser" value="firefox" />-->
     <classes>
        <class name="com.demoshop24.logintest.LoginTest" />
     </classes>
   </test>
  
   <test name="SearchMacTest">
-    <parameter name="browser" value="firefox" />
+<!--    <parameter name="browser" value="firefox" />-->
     <classes>
       <class name="com.demoshop24.searchtests.SearchSamsungTest"/>
     </classes>
   </test>
 
   <test name="SearchSamsungTest">
-    <parameter name="browser" value="chrome" />
+<!--    <parameter name="browser" value="chrome" />-->
     <classes>
       <class name="com.demoshop24.searchtests.SearchMacTest"/>
     </classes>
