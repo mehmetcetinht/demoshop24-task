@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="LoginTestsSuite" verbose="1">
+
+	<test name="LoginTest">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.demoshop24.logintest.LoginTest">
+				<methods>
+					<include name="LoginTest"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>

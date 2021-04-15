@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="AllTests" verbose="1" parallel="tests" thread-count="3">
+
+  <listeners>
+    <listener class-name="com.demoshop24.base.TestListener"></listener>
+  </listeners>
+
+  <test name="LoginTests" >
+    <parameter name="browser" value="firefox" />
+    <classes>
+       <class name="com.demoshop24.logintest.LoginTest" />
+    </classes>
+  </test>
+ 
+  <test name="SearchMacTest">
+    <parameter name="browser" value="firefox" />
+    <classes>
+      <class name="com.demoshop24.searchtests.SearchSamsungTest"/>
+    </classes>
+  </test>
+
+  <test name="SearchSamsungTest">
+    <parameter name="browser" value="chrome" />
+    <classes>
+      <class name="com.demoshop24.searchtests.SearchMacTest"/>
+    </classes>
+  </test>
+  
+</suite>

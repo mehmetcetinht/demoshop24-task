@@ -1,0 +1,14 @@
+com\demoshop24\base\BrowserDriverFactory.class
+com\demoshop24\pages\LoginPage.class
+com\demoshop24\pages\SuccessPage.class
+com\demoshop24\pages\RegisterPage.class
+com\demoshop24\pages\IMacPage.class
+com\demoshop24\pages\CartPage.class
+com\demoshop24\base\TestListener.class
+com\demoshop24\base\BaseTest.class
+com\demoshop24\pages\SearchedProductsPage.class
+com\demoshop24\pages\BasePageObject.class
+com\demoshop24\base\TestUtilities.class
+com\demoshop24\pages\HomePageObject.class
+com\demoshop24\pages\MyOrdersPage.class
+com\demoshop24\pages\DesktopPage.class

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AllTests" duration-ms="18136" started-at="2021-04-15T14:44:33Z" finished-at="2021-04-15T14:44:51Z">
+    <groups>
+    </groups>
+    <test name="SearchSamsungTest" duration-ms="10835" started-at="2021-04-15T14:44:33Z" finished-at="2021-04-15T14:44:44Z">
+      <class name="com.demoshop24.searchtests.SearchMacTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.demoshop24.searchtests.SearchMacTest@6d78f375]" name="setUp" is-config="true" duration-ms="1915" started-at="2021-04-15T14:44:33Z" finished-at="2021-04-15T14:44:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demoshop24.searchtests.SearchMacTest.SearchMacTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@5e3a8624]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchMacTest()[pri:0, instance:com.demoshop24.searchtests.SearchMacTest@6d78f375]" name="SearchMacTest" duration-ms="7813" started-at="2021-04-15T14:44:35Z" finished-at="2021-04-15T14:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchMacTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoshop24.searchtests.SearchMacTest@6d78f375]" name="tearDown" is-config="true" duration-ms="667" started-at="2021-04-15T14:44:43Z" finished-at="2021-04-15T14:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoshop24.searchtests.SearchMacTest -->
+    </test> <!-- SearchSamsungTest -->
+    <test name="SearchMacTest" duration-ms="16130" started-at="2021-04-15T14:44:33Z" finished-at="2021-04-15T14:44:49Z">
+      <class name="com.demoshop24.searchtests.SearchSamsungTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.demoshop24.searchtests.SearchSamsungTest@48eff760]" name="setUp" is-config="true" duration-ms="5157" started-at="2021-04-15T14:44:33Z" finished-at="2021-04-15T14:44:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demoshop24.searchtests.SearchSamsungTest.SearchSamsungTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@3bfdc050]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchSamsungTest()[pri:0, instance:com.demoshop24.searchtests.SearchSamsungTest@48eff760]" name="SearchSamsungTest" duration-ms="9903" started-at="2021-04-15T14:44:38Z" finished-at="2021-04-15T14:44:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchSamsungTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoshop24.searchtests.SearchSamsungTest@48eff760]" name="tearDown" is-config="true" duration-ms="783" started-at="2021-04-15T14:44:48Z" finished-at="2021-04-15T14:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoshop24.searchtests.SearchSamsungTest -->
+    </test> <!-- SearchMacTest -->
+    <test name="LoginTests" duration-ms="18136" started-at="2021-04-15T14:44:33Z" finished-at="2021-04-15T14:44:51Z">
+      <class name="com.demoshop24.logintest.LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.demoshop24.logintest.LoginTest@234bef66]" name="setUp" is-config="true" duration-ms="5632" started-at="2021-04-15T14:44:33Z" finished-at="2021-04-15T14:44:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demoshop24.logintest.LoginTest.LoginTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@1bce4f0a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.demoshop24.logintest.LoginTest@234bef66]" name="LoginTest" duration-ms="11383" started-at="2021-04-15T14:44:39Z" finished-at="2021-04-15T14:44:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoshop24.logintest.LoginTest@234bef66]" name="tearDown" is-config="true" duration-ms="834" started-at="2021-04-15T14:44:50Z" finished-at="2021-04-15T14:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoshop24.logintest.LoginTest -->
+    </test> <!-- LoginTests -->
+  </suite> <!-- AllTests -->
+</testng-results>

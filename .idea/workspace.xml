@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e6c0a69-26f7-4e2d-8d66-64c310547a41" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/base/BrowserDriverFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/TestSuites/AllTests.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/base/TestUtilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-417">
+              <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sys</find>
+      <find>log.</find>
+      <find>System.out.println</find>
+      <find>isD</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>log.info</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/base/BrowserDriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/SuccessPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/MyOrdersPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/iMacPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/DesktopPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/IMacPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/SearchedProductsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/CartPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/base/TestUtilities.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/demoshop24/searchtests/SearchSamsungTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/demoshop24/searchtests/SearchMacTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/TestSuites/AllTests.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/TestSuites/LoginTest.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/TestSuites/SearchTests.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/base/ExtentReportsClass.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/extent-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/BasePageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/base/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/base/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/HomePageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/pages/RegisterPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/demoshop24/logintest/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoshop24/base/TestListener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selenium-maven-java-task" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="7" />
+    <option name="y" value="14" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demoshop24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demoshop24" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demoshop24" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demoshop24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demoshop24" type="462c0819:PsiDirectoryNode" />
+              <item name="logintest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demoshop24" type="462c0819:PsiDirectoryNode" />
+              <item name="searchtests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSuites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task Demoshop24" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccentureTask" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demoshop24.base" />
+      <recent name="com.demoshop24.searchtests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alime\OneDrive\Desktop\Study\AccentureTask\src\main\resources" />
+      <recent name="C:\Users\alime\OneDrive\Desktop\Study\AccentureTask\src\main" />
+      <recent name="C:\Users\alime\OneDrive\Desktop\Study\AccentureTask\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/SearchTests.xml">
+    <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/AllTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AccentureTask" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/AllTests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/LoginTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AccentureTask" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/LoginTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/SearchTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AccentureTask" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TestSuites/SearchTests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AccentureTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoshop24.logintest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoshop24.logintest" />
+      <option name="MAIN_CLASS_NAME" value="com.demoshop24.logintest.LoginTest" />
+      <option name="METHOD_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchSamsungTest.SearchSamsungTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AccentureTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoshop24.searchtests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoshop24.searchtests" />
+      <option name="MAIN_CLASS_NAME" value="com.demoshop24.searchtests.SearchSamsungTest" />
+      <option name="METHOD_NAME" value="SearchSamsungTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/SearchTests.xml" />
+        <item itemvalue="TestNG.C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/LoginTest.xml" />
+        <item itemvalue="TestNG.LoginTest.LoginTest" />
+        <item itemvalue="TestNG.C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/AllTests.xml" />
+        <item itemvalue="TestNG.SearchSamsungTest.SearchSamsungTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e6c0a69-26f7-4e2d-8d66-64c310547a41" name="Default Changelist" comment="" />
+      <created>1618407644849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618407644849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_LoginTest_xml - 2021.04.15 at 00h 06m 55s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/LoginTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_SearchTests_xml - 2021.04.15 at 00h 08m 09s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/SearchTests.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_SearchTests_xml - 2021.04.15 at 00h 17m 28s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/SearchTests.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_LoginTest_xml - 2021.04.15 at 00h 26m 04s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/LoginTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_LoginTest_xml - 2021.04.15 at 00h 44m 04s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/LoginTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_LoginTest_xml - 2021.04.15 at 00h 46m 43s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/LoginTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_LoginTest_xml - 2021.04.15 at 01h 02m 11s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/LoginTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest_LoginTest - 2021.04.15 at 01h 26m 58s.xml">
+      <configuration name="LoginTest.LoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_LoginTest_xml - 2021.04.15 at 17h 41m 18s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/LoginTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_alime_OneDrive_Desktop_Study_AccentureTask_src_test_resources_TestSuites_SearchTests_xml - 2021.04.15 at 17h 43m 09s.xml">
+      <configuration name="C:/Users/alime/OneDrive/Desktop/Study/AccentureTask/src/test/resources/TestSuites/SearchTests.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1641791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4J2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/DesktopPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/IMacPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/screenshots/20210414/Default Suite/Task Demoshop24/LoginTest/234806684 RegisterPage opened.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/screenshots/20210414/AllTests/SearchMacTest/SearchSamsungTest/235117520 CartPage opened.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/screenshots/20210415/Search Tests/SearchMacTest/SearchMacTest/000753229 iMacAtDesktop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/demoshop24/searchtests/SearchMacTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccentureTask.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/base/ExtentReportsClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/demoshop24/searchtests/SearchSamsungTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/SearchedProductsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/CartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/extent-config.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/TestSuites/SearchTests.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/base/ExtentManager.java" />
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/emailable-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/passed.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/demoshop24/logintest/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="49" lean-forward="true" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/base/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/base/TestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/BasePageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#waitFor#0;class#BasePageObject#0" />
+            <element signature="method#waitForVisibilityOf#0;class#BasePageObject#0" />
+            <element signature="method#mouseOver#0;class#BasePageObject#0" />
+            <element signature="method#scrollTo#0;class#BasePageObject#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/HomePageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/RegisterPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/SuccessPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/pages/MyOrdersPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/TestSuites/LoginTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/screenshots/20210415/AllTests/LoginTests/LoginTest/174450696 OrderHistory opened.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/base/BrowserDriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/TestSuites/AllTests.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoshop24/base/TestUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
