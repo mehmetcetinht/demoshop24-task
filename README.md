@@ -14,9 +14,9 @@ Test Automation framework in maven using Java & Selenium is created with:
 
 - Test can be executed from command line (AllTests test suite will be executed with the command given below). 
 ```sh
-mvn clean test
+mvn clean test -Dbrowser=chrome
 ```
-- Browser value is parametric which accept as value  “Chrome” or “Firefox". When the browser is not specified, tests will be executed at chrome.
+- Browser value is parametric which accept as value  “chrome” or “firefox”. When the browser is not specified, tests will be executed at chrome.
 - Drivers 'chromedriver(version 89) and 'geckodriver' are included in the project.
 - Tests can be executed parallel by adding `parallel="tests" thread-count="{count}"` line to suite xml files.
 
